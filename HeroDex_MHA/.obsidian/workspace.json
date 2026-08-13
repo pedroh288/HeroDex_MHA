@@ -39,14 +39,40 @@
             "id": "f1f523b5e6e7ad3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Quircks/One-For-All.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "One-For-All"
+            },
+            "group": "a9ee83102fc75cbd"
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "1db83128c64afa3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9bd1b9f9246c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quircks/One-For-All.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "One-For-All"
+            },
+            "group": "a9ee83102fc75cbd"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,9 +92,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -108,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "807601c0f191b966",
@@ -184,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Quircks/One-For-All.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de One-For-All"
             }
           }
         ],
@@ -226,10 +252,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f1f523b5e6e7ad3e",
+  "active": "2c9bd1b9f9246c9d",
   "lastOpenFiles": [
-    "Templates/Character.md",
+    "Quircks/One-For-All.md",
     "Templates/Individuality.md",
+    "Templates/Character.md",
     "Bem-vindo.md",
     "Templates",
     "Individuality",
